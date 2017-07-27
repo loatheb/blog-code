@@ -1,0 +1,11 @@
+{
+  "name": "1.npm",
+  "main": "index.js",
+  "scripts": {},
+  "author": "loatheb<zz.innj@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "browserify": "^14.4.0",
+    "webpack": "^3.4.1"
+  }
+}
